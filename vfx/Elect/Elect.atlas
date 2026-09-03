@@ -1,0 +1,48 @@
+
+Elect.png
+size: 154,472
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Swk/body
+  rotate: false
+  xy: 72, 2
+  size: 76, 155
+  orig: 176, 266
+  offset: 47, 60
+  index: -1
+Swk/foot_left
+  rotate: true
+  xy: 2, 270
+  size: 67, 150
+  orig: 211, 280
+  offset: 64, 72
+  index: -1
+Swk/foot_right
+  rotate: false
+  xy: 2, 3
+  size: 68, 154
+  orig: 217, 300
+  offset: 76, 75
+  index: -1
+Swk/hand_left
+  rotate: true
+  xy: 2, 339
+  size: 65, 148
+  orig: 187, 246
+  offset: 48, 41
+  index: -1
+Swk/hand_right
+  rotate: true
+  xy: 2, 406
+  size: 64, 148
+  orig: 197, 264
+  offset: 70, 58
+  index: -1
+Swk/head
+  rotate: false
+  xy: 2, 159
+  size: 130, 109
+  orig: 186, 182
+  offset: 22, 36
+  index: -1

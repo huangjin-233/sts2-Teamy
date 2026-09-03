@@ -1,0 +1,15 @@
+{
+	"TEAMY_CHARACTER_TEAMY.title":  "TeamY",
+	"TEAMY_CHARACTER_TEAMY.description":  "",
+	"TEAMY_CHARACTER_TEAMY.titleObject":  "TeamY",
+	"TEAMY_CHARACTER_TEAMY.pronounObject":  "他",
+	"TEAMY_CHARACTER_TEAMY.possessiveAdjective":  "他的",
+	"TEAMY_CHARACTER_TEAMY.pronounPossessive":  "他的",
+	"TEAMY_CHARACTER_TEAMY.pronounSubject":  "他",
+	"TEAMY_CHARACTER_TEAMY.cardsModifierTitle":  "夏天y卡牌",
+	"TEAMY_CHARACTER_TEAMY.cardsModifierDescription":  "夏天y的卡牌现在会出现在奖励和商店中。",
+	"TEAMY_CHARACTER_TEAMY.eventDeathPrevention":  "……",
+	"TEAMY_CHARACTER_TEAMY.unlockText":  "完成 {Prerequisite} 的条件后解锁。",
+	"TEAMY_CHARACTER_TEAMY.banter.alive.endTurnPing":  "[sine]快点[/sine]",
+	"TEAMY_CHARACTER_TEAMY.banter.dead.endTurnPing":  "等我复活再战"
+}

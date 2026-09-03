@@ -1,0 +1,8 @@
+[gd_resource type="SpineSkeletonDataResource" load_steps=3 format=3 uid="uid://460jf6qly3hp"]
+
+[ext_resource type="SpineAtlasResource" uid="uid://eghv4svx82c3" path="res://vfx/electic/electic.atlas" id="1_w68ye"]
+[ext_resource type="SpineSkeletonFileResource" uid="uid://dqqvqcvo3fuiv" path="res://vfx/electic/electic.skel" id="2_t1q2p"]
+
+[resource]
+atlas_res = ExtResource("1_w68ye")
+skeleton_file_res = ExtResource("2_t1q2p")

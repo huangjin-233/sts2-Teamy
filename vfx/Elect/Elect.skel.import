@@ -1,0 +1,14 @@
+[remap]
+
+importer="spine.skel"
+type="SpineSkeletonFileResource"
+uid="uid://djvkt6oqimoc"
+path="res://.godot/imported/Elect.skel-abd14c6c0a21f9605d4b3dd947cc19bd.spskel"
+
+[deps]
+
+source_file="res://vfx/Elect/Elect.skel"
+dest_files=["res://.godot/imported/Elect.skel-abd14c6c0a21f9605d4b3dd947cc19bd.spskel"]
+
+[params]
+

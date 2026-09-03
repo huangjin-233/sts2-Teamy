@@ -1,0 +1,23 @@
+[gd_scene load_steps=2 format=3 uid="uid://dp41vouuvh5na"]
+
+[ext_resource type="Texture2D" uid="uid://dkfcy80mlo17g" path="res://images/character/11.png" id="1_gvwmg"]
+
+[node name="CharSelectBgTeamy" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(1361, 658)
+scale = Vector2(0.911, 0.911)
+texture = ExtResource("1_gvwmg")
+
+[node name="Control" type="Control" parent="."]
+anchors_preset = 0
+offset_left = 451.0
+offset_top = 153.0
+offset_right = 491.0
+offset_bottom = 193.0
+
+[node name="Marker2D" type="Marker2D" parent="."]
+
+[node name="Marker2D2" type="Marker2D" parent="."]

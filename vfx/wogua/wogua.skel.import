@@ -1,0 +1,14 @@
+[remap]
+
+importer="spine.skel"
+type="SpineSkeletonFileResource"
+uid="uid://brw42n1lllju8"
+path="res://.godot/imported/wogua.skel-8cdba4e3edd9818f13c184748c1125c2.spskel"
+
+[deps]
+
+source_file="res://vfx/wogua/wogua.skel"
+dest_files=["res://.godot/imported/wogua.skel-8cdba4e3edd9818f13c184748c1125c2.spskel"]
+
+[params]
+

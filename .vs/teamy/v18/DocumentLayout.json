@@ -1,0 +1,353 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\mods\\teamy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D661A3D6-FD2D-4120-8128-6E5B1C6C1A21}|teamy.csproj|d:\\mods\\teamy\\character\\relic\\tian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D661A3D6-FD2D-4120-8128-6E5B1C6C1A21}|teamy.csproj|solutionrelative:character\\relic\\tian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D661A3D6-FD2D-4120-8128-6E5B1C6C1A21}|teamy.csproj|d:\\mods\\teamy\\character\\cards\\rare\\buildexpect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D661A3D6-FD2D-4120-8128-6E5B1C6C1A21}|teamy.csproj|solutionrelative:character\\cards\\rare\\buildexpect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D661A3D6-FD2D-4120-8128-6E5B1C6C1A21}|teamy.csproj|d:\\mods\\teamy\\character\\cards\\rare\\buildbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D661A3D6-FD2D-4120-8128-6E5B1C6C1A21}|teamy.csproj|solutionrelative:character\\cards\\rare\\buildbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D661A3D6-FD2D-4120-8128-6E5B1C6C1A21}|teamy.csproj|d:\\mods\\teamy\\character\\cards\\basic\\defendteamy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D661A3D6-FD2D-4120-8128-6E5B1C6C1A21}|teamy.csproj|solutionrelative:character\\cards\\basic\\defendteamy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D661A3D6-FD2D-4120-8128-6E5B1C6C1A21}|teamy.csproj|d:\\mods\\teamy\\modinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D661A3D6-FD2D-4120-8128-6E5B1C6C1A21}|teamy.csproj|solutionrelative:modinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D661A3D6-FD2D-4120-8128-6E5B1C6C1A21}|teamy.csproj|d:\\mods\\teamy\\character\\cards\\basic\\striketeamy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D661A3D6-FD2D-4120-8128-6E5B1C6C1A21}|teamy.csproj|solutionrelative:character\\cards\\basic\\striketeamy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D661A3D6-FD2D-4120-8128-6E5B1C6C1A21}|teamy.csproj|d:\\mods\\teamy\\character\\teamy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D661A3D6-FD2D-4120-8128-6E5B1C6C1A21}|teamy.csproj|solutionrelative:character\\teamy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D661A3D6-FD2D-4120-8128-6E5B1C6C1A21}|teamy.csproj|d:\\mods\\teamy\\character\\power\\linkpower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D661A3D6-FD2D-4120-8128-6E5B1C6C1A21}|teamy.csproj|solutionrelative:character\\power\\linkpower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D661A3D6-FD2D-4120-8128-6E5B1C6C1A21}|teamy.csproj|d:\\mods\\teamy\\character\\power\\link2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D661A3D6-FD2D-4120-8128-6E5B1C6C1A21}|teamy.csproj|solutionrelative:character\\power\\link2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D661A3D6-FD2D-4120-8128-6E5B1C6C1A21}|teamy.csproj|d:\\mods\\teamy\\character\\power\\electic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D661A3D6-FD2D-4120-8128-6E5B1C6C1A21}|teamy.csproj|solutionrelative:character\\power\\electic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D661A3D6-FD2D-4120-8128-6E5B1C6C1A21}|teamy.csproj|d:\\mods\\teamy\\character\\cards\\uncommon\\badpizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D661A3D6-FD2D-4120-8128-6E5B1C6C1A21}|teamy.csproj|solutionrelative:character\\cards\\uncommon\\badpizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D661A3D6-FD2D-4120-8128-6E5B1C6C1A21}|teamy.csproj|d:\\mods\\teamy\\character\\cards\\common\\cnm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D661A3D6-FD2D-4120-8128-6E5B1C6C1A21}|teamy.csproj|solutionrelative:character\\cards\\common\\cnm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D661A3D6-FD2D-4120-8128-6E5B1C6C1A21}|teamy.csproj|d:\\mods\\teamy\\character\\cards\\rare\\electiclife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D661A3D6-FD2D-4120-8128-6E5B1C6C1A21}|teamy.csproj|solutionrelative:character\\cards\\rare\\electiclife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D661A3D6-FD2D-4120-8128-6E5B1C6C1A21}|teamy.csproj|d:\\mods\\teamy\\character\\teamykeyword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D661A3D6-FD2D-4120-8128-6E5B1C6C1A21}|teamy.csproj|solutionrelative:character\\teamykeyword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D661A3D6-FD2D-4120-8128-6E5B1C6C1A21}|teamy.csproj|d:\\mods\\teamy\\character\\cards\\uncommon\\link.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D661A3D6-FD2D-4120-8128-6E5B1C6C1A21}|teamy.csproj|solutionrelative:character\\cards\\uncommon\\link.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D661A3D6-FD2D-4120-8128-6E5B1C6C1A21}|teamy.csproj|d:\\mods\\teamy\\character\\cards\\uncommon\\smallbeff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D661A3D6-FD2D-4120-8128-6E5B1C6C1A21}|teamy.csproj|solutionrelative:character\\cards\\uncommon\\smallbeff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D661A3D6-FD2D-4120-8128-6E5B1C6C1A21}|teamy.csproj|d:\\mods\\teamy\\character\\teamycardpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D661A3D6-FD2D-4120-8128-6E5B1C6C1A21}|teamy.csproj|solutionrelative:character\\teamycardpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D661A3D6-FD2D-4120-8128-6E5B1C6C1A21}|teamy.csproj|d:\\mods\\teamy\\character\\teamyrelicpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D661A3D6-FD2D-4120-8128-6E5B1C6C1A21}|teamy.csproj|solutionrelative:character\\teamyrelicpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D661A3D6-FD2D-4120-8128-6E5B1C6C1A21}|teamy.csproj|d:\\mods\\teamy\\character\\teamypotionpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D661A3D6-FD2D-4120-8128-6E5B1C6C1A21}|teamy.csproj|solutionrelative:character\\teamypotionpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D661A3D6-FD2D-4120-8128-6E5B1C6C1A21}|teamy.csproj|d:\\mods\\teamy\\teamy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D661A3D6-FD2D-4120-8128-6E5B1C6C1A21}|teamy.csproj|solutionrelative:teamy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Link2.cs",
+              "DocumentMoniker": "D:\\mods\\teamy\\character\\power\\Link2.cs",
+              "RelativeDocumentMoniker": "character\\power\\Link2.cs",
+              "ToolTip": "D:\\mods\\teamy\\character\\power\\Link2.cs",
+              "RelativeToolTip": "character\\power\\Link2.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAkwDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T00:35:31.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Electic.cs",
+              "DocumentMoniker": "D:\\mods\\teamy\\character\\power\\Electic.cs",
+              "RelativeDocumentMoniker": "character\\power\\Electic.cs",
+              "ToolTip": "D:\\mods\\teamy\\character\\power\\Electic.cs",
+              "RelativeToolTip": "character\\power\\Electic.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T06:32:18.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tian.cs",
+              "DocumentMoniker": "D:\\mods\\teamy\\character\\relic\\Tian.cs",
+              "RelativeDocumentMoniker": "character\\relic\\Tian.cs",
+              "ToolTip": "D:\\mods\\teamy\\character\\relic\\Tian.cs",
+              "RelativeToolTip": "character\\relic\\Tian.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T04:32:36.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DefendTeamy.cs",
+              "DocumentMoniker": "D:\\mods\\teamy\\character\\cards\\basic\\DefendTeamy.cs",
+              "RelativeDocumentMoniker": "character\\cards\\basic\\DefendTeamy.cs",
+              "ToolTip": "D:\\mods\\teamy\\character\\cards\\basic\\DefendTeamy.cs",
+              "RelativeToolTip": "character\\cards\\basic\\DefendTeamy.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwBAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T23:51:09.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LinkPower.cs",
+              "DocumentMoniker": "D:\\mods\\teamy\\character\\power\\LinkPower.cs",
+              "RelativeDocumentMoniker": "character\\power\\LinkPower.cs",
+              "ToolTip": "D:\\mods\\teamy\\character\\power\\LinkPower.cs",
+              "RelativeToolTip": "character\\power\\LinkPower.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T11:15:29.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Teamy.cs",
+              "DocumentMoniker": "D:\\mods\\teamy\\character\\Teamy.cs",
+              "RelativeDocumentMoniker": "character\\Teamy.cs",
+              "ToolTip": "D:\\mods\\teamy\\character\\Teamy.cs",
+              "RelativeToolTip": "character\\Teamy.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAGkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T22:56:57.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StrikeTeamy.cs",
+              "DocumentMoniker": "D:\\mods\\teamy\\character\\cards\\basic\\StrikeTeamy.cs",
+              "RelativeDocumentMoniker": "character\\cards\\basic\\StrikeTeamy.cs",
+              "ToolTip": "D:\\mods\\teamy\\character\\cards\\basic\\StrikeTeamy.cs",
+              "RelativeToolTip": "character\\cards\\basic\\StrikeTeamy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T23:51:00.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "modinit.cs",
+              "DocumentMoniker": "D:\\mods\\teamy\\modinit.cs",
+              "RelativeDocumentMoniker": "modinit.cs",
+              "ToolTip": "D:\\mods\\teamy\\modinit.cs",
+              "RelativeToolTip": "modinit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T22:46:26.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BuildBody.cs",
+              "DocumentMoniker": "D:\\mods\\teamy\\character\\cards\\rare\\BuildBody.cs",
+              "RelativeDocumentMoniker": "character\\cards\\rare\\BuildBody.cs",
+              "ToolTip": "D:\\mods\\teamy\\character\\cards\\rare\\BuildBody.cs",
+              "RelativeToolTip": "character\\cards\\rare\\BuildBody.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwDwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T01:05:23.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BuildExpect.cs",
+              "DocumentMoniker": "D:\\mods\\teamy\\character\\cards\\rare\\BuildExpect.cs",
+              "RelativeDocumentMoniker": "character\\cards\\rare\\BuildExpect.cs",
+              "ToolTip": "D:\\mods\\teamy\\character\\cards\\rare\\BuildExpect.cs",
+              "RelativeToolTip": "character\\cards\\rare\\BuildExpect.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAA0wDQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T05:03:31.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BadPizza.cs",
+              "DocumentMoniker": "D:\\mods\\teamy\\character\\cards\\uncommon\\BadPizza.cs",
+              "RelativeDocumentMoniker": "character\\cards\\uncommon\\BadPizza.cs",
+              "ToolTip": "D:\\mods\\teamy\\character\\cards\\uncommon\\BadPizza.cs",
+              "RelativeToolTip": "character\\cards\\uncommon\\BadPizza.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAA0wEIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T11:30:32.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CNM.cs",
+              "DocumentMoniker": "D:\\mods\\teamy\\character\\cards\\common\\CNM.cs",
+              "RelativeDocumentMoniker": "character\\cards\\common\\CNM.cs",
+              "ToolTip": "D:\\mods\\teamy\\character\\cards\\common\\CNM.cs",
+              "RelativeToolTip": "character\\cards\\common\\CNM.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T11:13:09.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TeamyKeyword.cs",
+              "DocumentMoniker": "D:\\mods\\teamy\\character\\TeamyKeyword.cs",
+              "RelativeDocumentMoniker": "character\\TeamyKeyword.cs",
+              "ToolTip": "D:\\mods\\teamy\\character\\TeamyKeyword.cs",
+              "RelativeToolTip": "character\\TeamyKeyword.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T04:34:39.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ElecticLife.cs",
+              "DocumentMoniker": "D:\\mods\\teamy\\character\\cards\\rare\\ElecticLife.cs",
+              "RelativeDocumentMoniker": "character\\cards\\rare\\ElecticLife.cs",
+              "ToolTip": "D:\\mods\\teamy\\character\\cards\\rare\\ElecticLife.cs",
+              "RelativeToolTip": "character\\cards\\rare\\ElecticLife.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwCMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T05:21:50.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SmallBeff.cs",
+              "DocumentMoniker": "D:\\mods\\teamy\\character\\cards\\uncommon\\SmallBeff.cs",
+              "RelativeDocumentMoniker": "character\\cards\\uncommon\\SmallBeff.cs",
+              "ToolTip": "D:\\mods\\teamy\\character\\cards\\uncommon\\SmallBeff.cs",
+              "RelativeToolTip": "character\\cards\\uncommon\\SmallBeff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T11:05:54.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Link.cs",
+              "DocumentMoniker": "D:\\mods\\teamy\\character\\cards\\uncommon\\Link.cs",
+              "RelativeDocumentMoniker": "character\\cards\\uncommon\\Link.cs",
+              "ToolTip": "D:\\mods\\teamy\\character\\cards\\uncommon\\Link.cs",
+              "RelativeToolTip": "character\\cards\\uncommon\\Link.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwB0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T11:09:03.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TeamyPotionPool.cs",
+              "DocumentMoniker": "D:\\mods\\teamy\\character\\TeamyPotionPool.cs",
+              "RelativeDocumentMoniker": "character\\TeamyPotionPool.cs",
+              "ToolTip": "D:\\mods\\teamy\\character\\TeamyPotionPool.cs",
+              "RelativeToolTip": "character\\TeamyPotionPool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T22:55:47.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TeamyRelicPool.cs",
+              "DocumentMoniker": "D:\\mods\\teamy\\character\\TeamyRelicPool.cs",
+              "RelativeDocumentMoniker": "character\\TeamyRelicPool.cs",
+              "ToolTip": "D:\\mods\\teamy\\character\\TeamyRelicPool.cs",
+              "RelativeToolTip": "character\\TeamyRelicPool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T22:54:44.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TeamyCardPool.cs",
+              "DocumentMoniker": "D:\\mods\\teamy\\character\\TeamyCardPool.cs",
+              "RelativeDocumentMoniker": "character\\TeamyCardPool.cs",
+              "ToolTip": "D:\\mods\\teamy\\character\\TeamyCardPool.cs",
+              "RelativeToolTip": "character\\TeamyCardPool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T22:49:33.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "teamy.csproj",
+              "DocumentMoniker": "D:\\mods\\teamy\\teamy.csproj",
+              "RelativeDocumentMoniker": "teamy.csproj",
+              "ToolTip": "D:\\mods\\teamy\\teamy.csproj",
+              "RelativeToolTip": "teamy.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-24T22:43:40.781Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

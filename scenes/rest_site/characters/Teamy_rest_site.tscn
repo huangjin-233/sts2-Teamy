@@ -1,0 +1,42 @@
+[gd_scene load_steps=2 format=3 uid="uid://cfi0kbxv8xyo4"]
+
+[ext_resource type="Texture2D" uid="uid://b0vrwp54hcg0b" path="res://images/character/rest.png" id="1_jyjio"]
+
+[node name="TeamyRestSite" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(164, -290)
+scale = Vector2(1.02, 1)
+texture = ExtResource("1_jyjio")
+
+[node name="ControlRoot" type="Control" parent="."]
+anchors_preset = 0
+offset_left = -162.0
+offset_top = -517.0
+offset_right = 137.0
+
+[node name="SelectionReticle" type="Control" parent="ControlRoot"]
+unique_name_in_owner = true
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="Hitbox" type="Control" parent="ControlRoot"]
+unique_name_in_owner = true
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="ThoughtBubbleRight" type="Control" parent="ControlRoot"]
+unique_name_in_owner = true
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="ThoughtBubbleLeft" type="Control" parent="ControlRoot"]
+unique_name_in_owner = true
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0

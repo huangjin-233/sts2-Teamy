@@ -1,0 +1,16 @@
+[remap]
+
+importer="spine.atlas"
+type="SpineAtlasResource"
+uid="uid://cx3pcc11no6fp"
+path="res://.godot/imported/fps.atlas-8c08afb48614732d7dc8f800816beeae.spatlas"
+
+[deps]
+
+source_file="res://vfx/kill/fps.atlas"
+dest_files=["res://.godot/imported/fps.atlas-8c08afb48614732d7dc8f800816beeae.spatlas"]
+
+[params]
+
+normal_map_prefix="n"
+specular_map_prefix="s"

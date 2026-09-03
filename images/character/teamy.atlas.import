@@ -1,0 +1,16 @@
+[remap]
+
+importer="spine.atlas"
+type="SpineAtlasResource"
+uid="uid://ba5ujsc2fnl42"
+path="res://.godot/imported/teamy.atlas-8f8cd6311b033d9e923a95150504bd7a.spatlas"
+
+[deps]
+
+source_file="res://images/character/teamy.atlas"
+dest_files=["res://.godot/imported/teamy.atlas-8f8cd6311b033d9e923a95150504bd7a.spatlas"]
+
+[params]
+
+normal_map_prefix="n"
+specular_map_prefix="s"

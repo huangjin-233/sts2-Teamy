@@ -1,0 +1,14 @@
+[remap]
+
+importer="spine.skel"
+type="SpineSkeletonFileResource"
+uid="uid://dek1konsxvi83"
+path="res://.godot/imported/fps.skel-16d102302a0e86e23d68e29c0b061667.spskel"
+
+[deps]
+
+source_file="res://vfx/fps/fps.skel"
+dest_files=["res://.godot/imported/fps.skel-16d102302a0e86e23d68e29c0b061667.spskel"]
+
+[params]
+

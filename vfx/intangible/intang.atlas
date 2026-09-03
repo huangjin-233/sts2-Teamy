@@ -1,0 +1,13 @@
+
+intang.png
+size: 70,81
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+intable
+  rotate: false
+  xy: 2, 2
+  size: 66, 77
+  orig: 100, 100
+  offset: 21, 8
+  index: -1

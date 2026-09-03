@@ -1,0 +1,17 @@
+[gd_scene load_steps=3 format=3 uid="uid://cm7b1asddpe4a"]
+
+[ext_resource type="SpineSkeletonDataResource" uid="uid://b6ctvfar0llbo" path="res://vfx/wogua/wogua.tres" id="1_1v1oj"]
+[ext_resource type="Script" uid="uid://bpe4rgf7gqfoq" path="res://scenes/Vfx.cs" id="2_dvheq"]
+
+[node name="Wogua" type="Node2D"]
+
+[node name="SpineSprite" type="SpineSprite" parent="."]
+skeleton_data_res = ExtResource("1_1v1oj")
+preview_skin = "Default"
+preview_animation = "animation"
+preview_frame = false
+preview_time = 0.0
+
+[node name="Node2D" type="Node2D" parent="SpineSprite"]
+show_behind_parent = true
+script = ExtResource("2_dvheq")

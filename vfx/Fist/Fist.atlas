@@ -1,0 +1,48 @@
+
+Fist.png
+size: 459,158
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 118, 6
+  size: 73, 150
+  orig: 407, 374
+  offset: 130, 128
+  index: -1
+foot_left
+  rotate: false
+  xy: 263, 3
+  size: 67, 153
+  orig: 341, 367
+  offset: 129, 107
+  index: -1
+foot_right
+  rotate: false
+  xy: 193, 2
+  size: 68, 154
+  orig: 285, 330
+  offset: 120, 67
+  index: -1
+hand_left
+  rotate: false
+  xy: 396, 8
+  size: 61, 148
+  orig: 460, 434
+  offset: 200, 156
+  index: -1
+hand_right
+  rotate: false
+  xy: 332, 8
+  size: 62, 148
+  orig: 406, 408
+  offset: 174, 135
+  index: -1
+head
+  rotate: true
+  xy: 2, 26
+  size: 130, 114
+  orig: 360, 326
+  offset: 105, 138
+  index: -1

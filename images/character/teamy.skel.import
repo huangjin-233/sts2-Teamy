@@ -1,0 +1,14 @@
+[remap]
+
+importer="spine.skel"
+type="SpineSkeletonFileResource"
+uid="uid://df7ljntctufj"
+path="res://.godot/imported/teamy.skel-e4c6903b09aaba144530528f2ee1d95d.spskel"
+
+[deps]
+
+source_file="res://images/character/teamy.skel"
+dest_files=["res://.godot/imported/teamy.skel-e4c6903b09aaba144530528f2ee1d95d.spskel"]
+
+[params]
+

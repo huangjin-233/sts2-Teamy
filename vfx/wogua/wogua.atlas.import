@@ -1,0 +1,16 @@
+[remap]
+
+importer="spine.atlas"
+type="SpineAtlasResource"
+uid="uid://dxyup0r3mcxif"
+path="res://.godot/imported/wogua.atlas-4ebbcdc59b58a3ce06bfb5b0c9243092.spatlas"
+
+[deps]
+
+source_file="res://vfx/wogua/wogua.atlas"
+dest_files=["res://.godot/imported/wogua.atlas-4ebbcdc59b58a3ce06bfb5b0c9243092.spatlas"]
+
+[params]
+
+normal_map_prefix="n"
+specular_map_prefix="s"

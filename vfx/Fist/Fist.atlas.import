@@ -1,0 +1,16 @@
+[remap]
+
+importer="spine.atlas"
+type="SpineAtlasResource"
+uid="uid://bmfvik3kl1iu6"
+path="res://.godot/imported/Fist.atlas-4907e7a0097b7cd08077f4c0d904d6d6.spatlas"
+
+[deps]
+
+source_file="res://vfx/Fist/Fist.atlas"
+dest_files=["res://.godot/imported/Fist.atlas-4907e7a0097b7cd08077f4c0d904d6d6.spatlas"]
+
+[params]
+
+normal_map_prefix="n"
+specular_map_prefix="s"

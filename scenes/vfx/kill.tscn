@@ -1,0 +1,19 @@
+[gd_scene load_steps=3 format=3 uid="uid://cbys5570k8836"]
+
+[ext_resource type="Script" uid="uid://bpe4rgf7gqfoq" path="res://scenes/Vfx.cs" id="1_3sai5"]
+[ext_resource type="SpineSkeletonDataResource" uid="uid://deujht1wmwefr" path="res://vfx/kill/kill.tres" id="1_ddxqc"]
+
+[node name="Kill" type="Node2D"]
+
+[node name="SpineSprite" type="SpineSprite" parent="."]
+skeleton_data_res = ExtResource("1_ddxqc")
+preview_skin = "Default"
+preview_animation = "Kill"
+preview_frame = false
+preview_time = 0.0
+scale = Vector2(0.5, 0.5)
+
+[node name="Node2D" type="Node2D" parent="SpineSprite"]
+show_behind_parent = true
+position = Vector2(128, -188)
+script = ExtResource("1_3sai5")

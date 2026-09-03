@@ -1,0 +1,14 @@
+[remap]
+
+importer="spine.skel"
+type="SpineSkeletonFileResource"
+uid="uid://dqqvqcvo3fuiv"
+path="res://.godot/imported/electic.skel-43b3b54082829b1f843eb54230af4b0f.spskel"
+
+[deps]
+
+source_file="res://vfx/electic/electic.skel"
+dest_files=["res://.godot/imported/electic.skel-43b3b54082829b1f843eb54230af4b0f.spskel"]
+
+[params]
+

@@ -1,0 +1,20 @@
+[gd_scene load_steps=3 format=3 uid="uid://nl7vj4stwou"]
+
+[ext_resource type="SpineSkeletonDataResource" uid="uid://b8buvnt5nwu3s" path="res://vfx/intangible/intangible.tres" id="1_w3n7n"]
+[ext_resource type="Script" uid="uid://bpe4rgf7gqfoq" path="res://scenes/Vfx.cs" id="2_6oipi"]
+
+[node name="Intangible" type="Node2D"]
+
+[node name="SpineSprite" type="SpineSprite" parent="."]
+skeleton_data_res = ExtResource("1_w3n7n")
+preview_skin = "Default"
+preview_animation = "elect"
+preview_frame = false
+preview_time = 0.0
+position = Vector2(-243, 1)
+scale = Vector2(0.8, 0.8)
+
+[node name="Node2D" type="Node2D" parent="SpineSprite"]
+show_behind_parent = true
+position = Vector2(303.75, -1.2500002)
+script = ExtResource("2_6oipi")

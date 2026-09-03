@@ -1,0 +1,14 @@
+[remap]
+
+importer="spine.skel"
+type="SpineSkeletonFileResource"
+uid="uid://7ji60nmyll4v"
+path="res://.godot/imported/Fist.skel-70616f9c16e2d720252dc946aa596dc9.spskel"
+
+[deps]
+
+source_file="res://vfx/Fist/Fist.skel"
+dest_files=["res://.godot/imported/Fist.skel-70616f9c16e2d720252dc946aa596dc9.spskel"]
+
+[params]
+

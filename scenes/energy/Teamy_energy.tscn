@@ -1,0 +1,46 @@
+[gd_scene load_steps=3 format=3 uid="uid://gu80jslbwwip"]
+
+[ext_resource type="Texture2D" uid="uid://bwe0187x4nj2f" path="res://images/energy/Teamy_energy_icon.png" id="1_d6xny"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_feo7q"]
+font_size = 36
+
+[node name="EneergyTeamy" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+
+[node name="EnergyVfxBack" type="Node2D" parent="."]
+unique_name_in_owner = true
+
+[node name="Layers" type="Control" parent="."]
+unique_name_in_owner = true
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="Layer1" type="TextureRect" parent="Layers"]
+layout_mode = 0
+offset_left = -5.0
+offset_top = -5.0
+offset_right = 129.0
+offset_bottom = 151.0
+texture = ExtResource("1_d6xny")
+
+[node name="RotationLayers" type="Control" parent="Layers"]
+unique_name_in_owner = true
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="EnergyVfxFront" type="Node2D" parent="."]
+unique_name_in_owner = true
+position = Vector2(61, 88)
+
+[node name="Label" type="Label" parent="."]
+layout_mode = 0
+offset_left = 34.0
+offset_top = 56.0
+offset_right = 90.0
+offset_bottom = 106.0
+text = "3/3"
+label_settings = SubResource("LabelSettings_feo7q")

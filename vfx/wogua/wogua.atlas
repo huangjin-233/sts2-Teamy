@@ -1,0 +1,20 @@
+
+wogua.png
+size: 150,177
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 2
+  size: 105, 144
+  orig: 173, 240
+  offset: 23, 41
+  index: -1
+2
+  rotate: false
+  xy: 2, 109
+  size: 146, 66
+  orig: 197, 135
+  offset: 10, 45
+  index: -1

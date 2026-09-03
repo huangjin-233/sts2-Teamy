@@ -1,0 +1,59 @@
+﻿#nullable enable
+using System.Threading.Tasks;
+using MegaCrit.Sts2.Core.Commands;
+using MegaCrit.Sts2.Core.Entities.Cards;
+using MegaCrit.Sts2.Core.Entities.Creatures;
+using MegaCrit.Sts2.Core.Entities.Players;
+using MegaCrit.Sts2.Core.Entities.Powers;
+using MegaCrit.Sts2.Core.GameActions.Multiplayer;
+using MegaCrit.Sts2.Core.Models;
+using MegaCrit.Sts2.Core.Models.Powers;
+using MegaCrit.Sts2.Core.ValueProps;
+using STS2RitsuLib.Interop.AutoRegistration;
+using STS2RitsuLib.Keywords;
+using STS2RitsuLib.Scaffolding.Content;
+using Teamy.character.cards.uncommon;
+using Teamy.character.relic;
+
+namespace Teamy.character.power;
+
+[RegisterPower]
+public class SmallEyePower: ModPowerTemplate
+{
+    // 类型，Buff或Debuff
+    public override PowerType Type => PowerType.Buff;
+    // 叠加类型，Counter表示可叠加，Single表示不可叠加
+    public override PowerStackType StackType => PowerStackType.Single;
+
+    // 自定义图标路径。1:1即可。原版游戏大图256x256，小图64x64。
+    public override PowerAssetProfile AssetProfile => new(
+        IconPath: "res://images/powers/SmallEyePower.png",
+        BigIconPath: "res://images/powers/SmallEyePower.png"
+    );
+
+    public decimal damage;
+    public override decimal ModifyHpLostAfterOstyLate(Creature target, decimal amount, ValueProp props, Creature? dealer, CardModel? cardSource)
+    {
+        if (target.IsPlayer)
+        {
+            return amount;
+        }
+        if (cardSource == null)
+            return amount;
+        damage = amount;
+        return 0m;
+    }
+    public override async Task AfterDamageReceived(PlayerChoiceContext choiceContext, Creature target, DamageResult result, ValueProp props, Creature? dealer, CardModel? cardSource)
+    {
+        if (cardSource != null && !target.IsPlayer)
+        {
+            var ownerCombatState = Owner.CombatState;
+            if (ownerCombatState?.HittableEnemies != null)
+            {
+                Creature? creature = Owner.Player?.RunState.Rng.CombatTargets.NextItem(ownerCombatState.HittableEnemies);
+                if (creature != null)
+                    await CreatureCmd.Damage(choiceContext, creature, damage, ValueProp.Unpowered, Owner, null);
+            }
+        }
+    }
+}

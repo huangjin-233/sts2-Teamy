@@ -1,0 +1,19 @@
+[gd_scene load_steps=2 format=3 uid="uid://c8urdhhvtgsuk"]
+
+[ext_resource type="Texture2D" uid="uid://b0vrwp54hcg0b" path="res://images/character/rest.png" id="1_dyjwu"]
+
+[node name="TeamyMerchant" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(167.5, -286)
+scale = Vector2(0.97625, 1)
+texture = ExtResource("1_dyjwu")
+
+[node name="Hitbox" type="Control" parent="."]
+anchors_preset = 0
+offset_left = -82.0
+offset_top = -499.0
+offset_right = 125.0
+offset_bottom = -9.0

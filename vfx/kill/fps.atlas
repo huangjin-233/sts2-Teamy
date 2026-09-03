@@ -1,0 +1,55 @@
+
+fps.png
+size: 328,229
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+six/1030
+  rotate: true
+  xy: 211, 4
+  size: 96, 112
+  orig: 128, 128
+  offset: 16, 8
+  index: -1
+six/body
+  rotate: false
+  xy: 2, 71
+  size: 73, 156
+  orig: 146, 221
+  offset: 33, 32
+  index: -1
+six/foot_left
+  rotate: false
+  xy: 77, 72
+  size: 66, 155
+  orig: 124, 202
+  offset: 26, 22
+  index: -1
+six/foot_right
+  rotate: true
+  xy: 2, 2
+  size: 67, 155
+  orig: 97, 173
+  offset: 21, 7
+  index: -1
+six/hand_left
+  rotate: false
+  xy: 145, 75
+  size: 64, 152
+  orig: 114, 199
+  offset: 26, 25
+  index: -1
+six/hand_right
+  rotate: false
+  xy: 145, 75
+  size: 64, 152
+  orig: 128, 207
+  offset: 37, 22
+  index: -1
+six/head
+  rotate: true
+  xy: 211, 102
+  size: 125, 115
+  orig: 168, 185
+  offset: 18, 40
+  index: -1

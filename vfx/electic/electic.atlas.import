@@ -1,0 +1,16 @@
+[remap]
+
+importer="spine.atlas"
+type="SpineAtlasResource"
+uid="uid://eghv4svx82c3"
+path="res://.godot/imported/electic.atlas-070aec252701a5a2af66aa6de979988a.spatlas"
+
+[deps]
+
+source_file="res://vfx/electic/electic.atlas"
+dest_files=["res://.godot/imported/electic.atlas-070aec252701a5a2af66aa6de979988a.spatlas"]
+
+[params]
+
+normal_map_prefix="n"
+specular_map_prefix="s"
