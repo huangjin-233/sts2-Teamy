@@ -3,7 +3,7 @@
   "name": "夏天Y",
   "author": "huangjin",
   "description": "知名MC主播",
-  "version": "v0.1.0",
+  "version": "v0.1.6",
   "has_pck": true,
   "has_dll": true,
   "dependencies": [{ "id": "STS2-RitsuLib", "min_version": "0.3.0" }],

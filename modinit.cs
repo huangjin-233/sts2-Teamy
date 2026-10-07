@@ -31,6 +31,8 @@ namespace Teamy
             // 自动注册内容
             ModTypeDiscoveryHub.RegisterModAssembly(ModId, assembly);
             RitsuLibFramework.RegisterArchaicToothTranscendenceMapping<Boss, BossPlaus>();
+            // 注册遥测（与 Momizi 共用上报站点）
+            TeamyTelemetry.Register();
         }
         static void LoadScenes() {
             //你的场景字符串列表
