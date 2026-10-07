@@ -8,7 +8,7 @@
 	"TEAMY_KEYWORD_BC.title": "半城",
 	"TEAMY_KEYWORD_BC.description": "每打出5张带有[purple]半城[/purple]的牌，获得1层[gold]滑溜[/gold]",
 	"TEAMY_KEYWORD_WSD.title": "WSD",
-	"TEAMY_KEYWORD_WSD.description": "打出3张带有[pink]WSD[/pink]的牌后获得1层[gold]无实体[/gold]，每场战斗只可触发1次",
+	"TEAMY_KEYWORD_WSD.description": "打出3张带有[pink]WSD[/pink]的牌后可以右键初始遗物获得1层[gold]无实体[/gold]，每场战斗只可触发1次",
 	"TEAMY_KEYWORD_XTY.title": "夏天Y",
 	"TEAMY_KEYWORD_XTY.description": "随机触发一个其他词条的效果",
 	"TEAMY_KEYWORD_GOU.title": "宁哥",

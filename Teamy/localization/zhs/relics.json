@@ -4,5 +4,8 @@
   "TEAMY_RELIC_TIAN.flavor": "天门永存！",
   "TEAMY_RELIC_TIAN_PLUS.title": "天门",
   "TEAMY_RELIC_TIAN_PLUS.description": "每个词条都会触发2次\n[green]六谷[/green]，[blue]赵子龙[/blue]，[orange]孙悟空[/orange]（{SwkNum:diff()}/3），[purple]半城[/purple]（{BcNum:diff()}/5），[pink]WSD[/pink]（{WsdNum:diff()}/3），[red]夏天Y[/red]，[color=yellow]宁哥[/color]",
-  "TEAMY_RELIC_TIAN_PLUS.flavor": ""
+  "TEAMY_RELIC_TIAN_PLUS.flavor": "",
+  "TEAMY_RELIC_MIND_HEALTH.title": "心理健康",
+  "TEAMY_RELIC_MIND_HEALTH.description": "每打出一张牌触发WSD时，触发一次XTY。",
+  "TEAMY_RELIC_MIND_HEALTH.flavor": ""
 }

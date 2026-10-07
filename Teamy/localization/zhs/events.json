@@ -1,2 +1,34 @@
 {
+  "TEAMY_EVENT_TREE_OR_TENG.title": "葡萄长在哪里",
+  "TEAMY_EVENT_TREE_OR_TENG.pages.INITIAL.description": "夏天Y：葡萄长在哪里？\n六谷：树上啊，阿门阿前一颗葡萄树啊。\nBC:对啊，藤上啊。\n那么葡萄长在哪里",
+
+  "TEAMY_EVENT_TREE_OR_TENG.pages.INITIAL.options.Tree.title": "树上",
+  "TEAMY_EVENT_TREE_OR_TENG.pages.INITIAL.options.Tree.description": "将牌组中的1张[葡萄兄弟]变化。",
+  "TEAMY_EVENT_TREE_OR_TENG.pages.INITIAL.options.Tree_LOCKED.title": "树上",
+  "TEAMY_EVENT_TREE_OR_TENG.pages.INITIAL.options.Tree_LOCKED.description": "需要牌组中有[葡萄兄弟]。",
+
+  "TEAMY_EVENT_TREE_OR_TENG.pages.INITIAL.options.Teng.title": "藤上",
+  "TEAMY_EVENT_TREE_OR_TENG.pages.INITIAL.options.Teng.description": "将牌组中的1张[葡萄兄弟]变化。",
+  "TEAMY_EVENT_TREE_OR_TENG.pages.INITIAL.options.Teng_LOCKED.title": "藤上",
+  "TEAMY_EVENT_TREE_OR_TENG.pages.INITIAL.options.Teng_LOCKED.description": "需要牌组中有[葡萄兄弟]。",
+
+  "TEAMY_EVENT_TREE_OR_TENG.pages.INITIAL.options.Unknow.title": "不知道",
+  "TEAMY_EVENT_TREE_OR_TENG.pages.INITIAL.options.Unknow.description": "获得1张[葡萄兄弟]，加入牌组。",
+
+  "TEAMY_EVENT_TREE_OR_TENG.pages.Tree.description": "BC和六谷对你发出了肯定。",
+  "TEAMY_EVENT_TREE_OR_TENG.pages.Teng.description": "夏天Y对你发出了肯定。",
+  "TEAMY_EVENT_TREE_OR_TENG.pages.Unknow.description": "你是baka。",
+
+  "TEAMY_EVENT_MIND.title": "心理辅导",
+  "TEAMY_EVENT_MIND.pages.INITIAL.description": "一觉醒来，你发现自己在一个学校里。\n“同学，你走神了”\n“啊，好，对不起”\n“同学，我看你状态不太好，需要心理辅导吗？”",
+
+  "TEAMY_EVENT_MIND.pages.INITIAL.options.END.title": "好",
+  "TEAMY_EVENT_MIND.pages.INITIAL.options.END.description": "选择卡组里至多5张牌获得[red]XTY[/red]和[pink]WSD[/pink]。",
+
+  "TEAMY_EVENT_MIND.pages.INITIAL.options.TRUE.title": "不需要",
+  "TEAMY_EVENT_MIND.pages.INITIAL.options.TRUE.description": "随机降级卡组里两张牌，获得遗物[gold]心理健康[/gold]。",
+
+
+  "TEAMY_EVENT_MIND.pages.END.description": "没有人再见到过你。",
+  "TEAMY_EVENT_MIND.pages.TRUE.description": "几天后学校消失在一场大火中。"
 }
